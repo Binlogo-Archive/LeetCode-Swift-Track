@@ -3,5 +3,6 @@
     <pages>
         <page name='001_TwoSum'/>
         <page name='008_StringToInteger'/>
+        <page name='024_SwapNodesInPairs'/>
     </pages>
 </playground>
