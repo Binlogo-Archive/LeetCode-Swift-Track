@@ -6,5 +6,6 @@
         <page name='024_SwapNodesInPairs'/>
         <page name='151_ReverseWordsInString'/>
         <page name='880_DecodedStringAtIndex'/>
+        <page name='1003_CheckIfWordIsValidAfterSubstitutions'/>
     </pages>
 </playground>
