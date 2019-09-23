@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 
 //
 // 1003. 检查替换后的词是否有效
@@ -36,5 +35,3 @@ assert(s.isValid("aabcbc"))
 assert(s.isValid("abcabcababcc"))
 assert(!s.isValid("abccba"))
 assert(!s.isValid("cababc"))
-
-//: [Next](@next)
