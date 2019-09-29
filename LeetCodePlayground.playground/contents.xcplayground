@@ -8,5 +8,6 @@
         <page name='880_DecodedStringAtIndex'/>
         <page name='1003_CheckIfWordIsValidAfterSubstitutions'/>
         <page name='274_H-Index'/>
+        <page name='724_FindPivotIndex'/>
     </pages>
 </playground>
