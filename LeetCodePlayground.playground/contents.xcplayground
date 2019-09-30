@@ -9,5 +9,6 @@
         <page name='1003_CheckIfWordIsValidAfterSubstitutions'/>
         <page name='274_H-Index'/>
         <page name='724_FindPivotIndex'/>
+        <page name='747_LargestNumberAtLeastTwiceofOthers'/>
     </pages>
 </playground>
