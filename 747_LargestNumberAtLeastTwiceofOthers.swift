@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 747. Largest Number At Least Twice of Others
 //
@@ -34,5 +32,3 @@ class Solution {
 let s = Solution()
 assert(s.dominantIndex([3, 6, 1, 0]) == 1)
 assert(s.dominantIndex([1, 2, 3, 4]) == -1)
-
-//: [Next](@next)
