@@ -18,11 +18,13 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 
 ### 数组
 
-|                             标题                             |      标签       | 描述                                                     |                          题解                          |
-| :----------------------------------------------------------: | :-------------: | :------------------------------------------------------- | :----------------------------------------------------: |
-|   1.[两数之和](https://leetcode-cn.com/problems/two-sum/)    | `数组` `哈希表` | 给定一个整数数组和目标值，找出和为目标值的那两个整数。   |              [Swift](./001_TwoSum.swift)               |
-| 724.[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) |     `数组`      | 给定一个整数数组，找出「中心索引」                       |          [Swift](./724_FindPivotIndex.swift)           |
-| 747.[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) |     `数组`      | 查找数组中的最大元素是否至少是数组中每个其他数字的两倍。 | [Swift](./747_LargestNumberAtLeastTwiceofOthers.swift) |
+|                             标题                             |      标签       | 描述                                                         |                          题解                          |
+| :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------- | :----------------------------------------------------: |
+|   1.[两数之和](https://leetcode-cn.com/problems/two-sum/)    | `数组` `哈希表` | 给定一个整数数组和目标值，找出和为目标值的那两个整数。       |              [Swift](./001_TwoSum.swift)               |
+| 724.[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) |     `数组`      | 给定一个整数数组，找出「中心索引」                           |          [Swift](./724_FindPivotIndex.swift)           |
+| 747.[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) |     `数组`      | 查找数组中的最大元素是否至少是数组中每个其他数字的两倍。     | [Swift](./747_LargestNumberAtLeastTwiceofOthers.swift) |
+|    66.[加一](https://leetcode-cn.com/problems/plus-one/)     |     `数组`      | 给定一个由**整数**组成的**非空**数组所表示的非负整数，在该数的基础上加一。 |              [Swift](./66_PlusOne.swift)               |
+|                                                              |                 |                                                              |                                                        |
 
 ### 
 
