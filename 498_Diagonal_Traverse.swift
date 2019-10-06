@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 498. 对角线遍历
 //
@@ -52,5 +50,3 @@ class Solution {
 let s = Solution()
 let matrix = [[ 1, 2, 3 ],[ 4, 5, 6 ],[ 7, 8, 9 ]]
 assert(s.findDiagonalOrder(matrix) == [1,2,4,7,5,3,6,8,9])
-
-//: [Next](@next)
