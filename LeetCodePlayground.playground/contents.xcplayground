@@ -10,6 +10,7 @@
         <page name='274_H-Index'/>
         <page name='724_FindPivotIndex'/>
         <page name='747_LargestNumberAtLeastTwiceofOthers'/>
-        <page name='66. PlusOne'/>
+        <page name='66_PlusOne'/>
+        <page name='498_Diagonal_Traverse'/>
     </pages>
 </playground>
