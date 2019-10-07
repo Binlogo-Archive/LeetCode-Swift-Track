@@ -12,5 +12,6 @@
         <page name='747_LargestNumberAtLeastTwiceofOthers'/>
         <page name='66_PlusOne'/>
         <page name='498_Diagonal_Traverse'/>
+        <page name='54_Spiral_Matrix'/>
     </pages>
 </playground>
