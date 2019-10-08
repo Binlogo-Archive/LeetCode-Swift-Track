@@ -25,6 +25,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 | 747.[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) |     `数组`      | 查找数组中的最大元素是否至少是数组中每个其他数字的两倍。     | [Swift](./747_LargestNumberAtLeastTwiceofOthers.swift) |
 |    66.[加一](https://leetcode-cn.com/problems/plus-one/)     |     `数组`      | 给定一个由**整数**组成的**非空**数组所表示的非负整数，在该数的基础上加一。 |              [Swift](./66_PlusOne.swift)               |
 | 498. [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) |     `数组`      | 给定一个含有 M x N 个元素的矩阵（M 行，N 列），请以对角线遍历的顺序返回这个矩阵中的所有元素 |         [Swift](./498_Diagonal_Traverse.swift)         |
+| 118. [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) |     `数组`      | 给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行    |         [Swift](./118_Pascal's_Triangle.swift)         |
 
 ### 
 
