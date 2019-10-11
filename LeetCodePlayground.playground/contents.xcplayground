@@ -11,8 +11,9 @@
         <page name='724_FindPivotIndex'/>
         <page name='747_LargestNumberAtLeastTwiceofOthers'/>
         <page name='66_PlusOne'/>
-        <page name='498_Diagonal_Traverse'/>
+        <page name='498_DiagonalTraverse'/>
         <page name='54_Spiral_Matrix'/>
-        <page name='118_Pascal&apos;s_Triangle'/>
+        <page name='118_Pascal&apos;sTriangle'/>
+        <page name='67_AddBinary'/>
     </pages>
 </playground>
