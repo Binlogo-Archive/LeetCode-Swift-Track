@@ -6,26 +6,27 @@ import Foundation
 
 class Solution {
     func addBinary(_ a: String, _ b: String) -> String {
-        let aChars = Array(a)
-        let bChars = Array(b)
-        var i = aChars.count - 1, j = bChars.count - 1
+        let aChars = Array(a), bChars = Array(b)
         var sum = 0, carry = 0, res = ""
+        var i = aChars.count - 1, j = bChars.count - 1
         
         while i >= 0 || j >= 0 || carry > 0 {
-            sum = carry
-            if i >= 0 {
-                sum += Int(String(aChars[i]))!
-                i -= 1
-            }
-            if j >= 0 {
-                sum += Int(String(bChars[j]))!
-                j -= 1
-            }
-            carry = sum / 2
-            sum = sum % 2
+            let bitA: Int = {
+                if i < 0 { return 0 }
+                defer { i -= 1 }
+                return Int(String(aChars[i]))!
+            }()
+            let bitB: Int = {
+                if j < 0 { return 0 }
+                defer { j -= 1 }
+                return Int(String(bChars[j]))!
+            }()
+            
+            sum = bitA ^ bitB ^ carry
+            carry = (bitA & bitB) | (carry & (bitA | bitB))
+            
             res = String(sum) + res
         }
-        
         return res
     }
 }
