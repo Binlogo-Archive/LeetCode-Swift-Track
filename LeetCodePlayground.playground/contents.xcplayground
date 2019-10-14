@@ -15,5 +15,6 @@
         <page name='54_Spiral_Matrix'/>
         <page name='118_Pascal&apos;sTriangle'/>
         <page name='67_AddBinary'/>
+        <page name='283_MoveZeroes'/>
     </pages>
 </playground>
