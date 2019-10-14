@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 283. 移动零
 //
@@ -35,5 +33,3 @@ let s = Solution()
 var input = [0, 1, 0, 3, 12]
 s.moveZeroes(&input)
 assert(input == [1,3,12,0,0])
-
-//: [Next](@next)

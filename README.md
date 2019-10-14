@@ -27,6 +27,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 |    66.[加一](https://leetcode-cn.com/problems/plus-one/)     |     `数组`      | 给定一个由**整数**组成的**非空**数组所表示的非负整数，在该数的基础上加一。 |              [Swift](./66_PlusOne.swift)               |
 | 498. [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) |     `数组`      | 给定一个含有 M x N 个元素的矩阵（M 行，N 列），请以对角线遍历的顺序返回这个矩阵中的所有元素 |         [Swift](./498_Diagonal_Traverse.swift)         |
 | 118. [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) |     `数组`      | 给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行    |         [Swift](./118_Pascal's_Triangle.swift)         |
+| 283. [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) |     `数组`      | 给定一个数组 `nums`，编写一个函数将所有 `0` 移动到数组的末尾，同时保持非零元素的相对顺序。 |             [Swift](283_MoveZeroes.swift)              |
 
 ### 字符串
 
