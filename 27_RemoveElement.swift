@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 27. 移除元素
 //
@@ -38,5 +36,3 @@ do {
     assert(input == [2, 2])
     assert(newLength == 2)
 }
-
-//: [Next](@next)
