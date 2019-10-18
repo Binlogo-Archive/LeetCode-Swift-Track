@@ -17,5 +17,6 @@
         <page name='67_AddBinary'/>
         <page name='283_MoveZeroes'/>
         <page name='27_RemoveElement'/>
+        <page name='26_RemoveDuplicatesFromSortedArray'/>
     </pages>
 </playground>
