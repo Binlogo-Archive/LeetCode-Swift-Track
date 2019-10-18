@@ -29,6 +29,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 | 118. [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) |     `数组`      | 给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行    |         [Swift](./118_Pascal's_Triangle.swift)         |
 | 283. [移动零](https://leetcode-cn.com/problems/move-zeroes/) |     `数组`      | 给定一个数组 `nums`，编写一个函数将所有 `0` 移动到数组的末尾，同时保持非零元素的相对顺序。 |             [Swift](283_MoveZeroes.swift)              |
 | 27. [ 移除元素](https://leetcode-cn.com/problems/remove-element/) |     `数组`      | 给定一个数组 *nums* 和一个值 *val*，你需要[原地](https://baike.baidu.com/item/原地算法)移除所有数值等于 *val* 的元素，返回移除后数组的新长度。 |            [Swift](27_RemoveElement.swift)             |
+| 26. [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |     `数组`      | 给定一个排序数组，你需要在**[原地](http://baike.baidu.com/item/原地算法)**删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。 |   [Swift](26_RemoveDuplicatesFromSortedArray.swift)    |
 
 ### 字符串
 

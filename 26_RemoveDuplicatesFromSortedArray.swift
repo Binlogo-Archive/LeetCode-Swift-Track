@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 26. 删除排序数组中的重复项
 //
@@ -35,5 +33,3 @@ let s = Solution()
 var inputs = [1,1,2]
 assert(s.removeDuplicates(&inputs) == 2)
 assert(inputs == [1, 2])
-
-//: [Next](@next)
