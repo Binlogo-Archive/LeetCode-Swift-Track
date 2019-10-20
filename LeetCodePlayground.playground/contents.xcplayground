@@ -18,5 +18,6 @@
         <page name='283_MoveZeroes'/>
         <page name='27_RemoveElement'/>
         <page name='26_RemoveDuplicatesFromSortedArray'/>
+        <page name='80_RemoveDuplicatesFromSortedArray_II'/>
     </pages>
 </playground>
