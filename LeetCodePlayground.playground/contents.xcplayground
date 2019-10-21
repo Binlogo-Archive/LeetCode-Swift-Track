@@ -19,5 +19,6 @@
         <page name='27_RemoveElement'/>
         <page name='26_RemoveDuplicatesFromSortedArray'/>
         <page name='80_RemoveDuplicatesFromSortedArray_II'/>
+        <page name='75_SortColors'/>
     </pages>
 </playground>
