@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 75. Sort Colors
 //
@@ -50,6 +48,3 @@ do {
     input
 //    assert(input == expectOutput)
 }
-
-
-//: [Next](@next)
