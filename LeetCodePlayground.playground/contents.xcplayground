@@ -20,5 +20,6 @@
         <page name='26_RemoveDuplicatesFromSortedArray'/>
         <page name='80_RemoveDuplicatesFromSortedArray_II'/>
         <page name='75_SortColors'/>
+        <page name='215_FindKthLargest'/>
     </pages>
 </playground>
