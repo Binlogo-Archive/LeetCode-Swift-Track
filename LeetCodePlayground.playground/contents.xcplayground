@@ -22,5 +22,6 @@
         <page name='75_SortColors'/>
         <page name='215_FindKthLargestInAnArray'/>
         <page name='88_MergeSortedArray'/>
+        <page name='71_SimplifyPath'/>
     </pages>
 </playground>
