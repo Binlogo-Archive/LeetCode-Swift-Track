@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 88. 合并两个有序数组
 //
@@ -33,5 +31,3 @@ let s = Solution()
 var nums1 = [1,2,3,0,0,0]
 s.merge(&nums1, 3, [2,5,6], 3)
 nums1
-
-//: [Next](@next)
