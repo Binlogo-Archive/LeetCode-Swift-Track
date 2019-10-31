@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 71. 简化路径
 //
@@ -40,5 +38,3 @@ s.simplifyPath("/home//foo/") == "/home/foo"
 s.simplifyPath("/a/./b/../../c/") == "/c"
 s.simplifyPath("/a/../../b/../c//.//") == "/c"
 s.simplifyPath("/a//b////c/d//././/..") == "/a/b/c"
-
-//: [Next](@next)
