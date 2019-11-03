@@ -23,5 +23,6 @@
         <page name='215_FindKthLargestInAnArray'/>
         <page name='88_MergeSortedArray'/>
         <page name='71_SimplifyPath'/>
+        <page name='167_TwoSumII'/>
     </pages>
 </playground>
