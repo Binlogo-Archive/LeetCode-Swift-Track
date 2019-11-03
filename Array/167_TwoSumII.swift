@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 167. 两数之和 II - 输入有序数组
 //
@@ -30,5 +28,3 @@ class Solution {
 // Tests
 let s = Solution()
 s.twoSum([2, 7, 11, 15], 9) == [1, 2]
-
-//: [Next](@next)
