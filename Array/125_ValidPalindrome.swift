@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 125. 验证回文串
 //
@@ -42,5 +40,3 @@ class Solution {
 let s = Solution()
 s.isPalindrome("A man, a plan, a canal: Panama")
 s.isPalindrome("race a car")
-
-//: [Next](@next)
