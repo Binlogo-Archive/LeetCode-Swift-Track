@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 345. 翻转字符串中的元音字母
 //
@@ -44,5 +42,3 @@ extension Character {
 let s = Solution()
 s.reverseVowels("hello") == "holle"
 s.reverseVowels("leetcode") == "leotcede"
-
-//: [Next](@next)
