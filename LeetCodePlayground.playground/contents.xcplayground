@@ -25,5 +25,6 @@
         <page name='71_SimplifyPath'/>
         <page name='167_TwoSumII'/>
         <page name='125_ValidPalindrome'/>
+        <page name='345_ReverseVowelsOfAString'/>
     </pages>
 </playground>
