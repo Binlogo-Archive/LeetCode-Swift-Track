@@ -26,5 +26,6 @@
         <page name='167_TwoSumII'/>
         <page name='125_ValidPalindrome'/>
         <page name='345_ReverseVowelsOfAString'/>
+        <page name='11_ContainerWithMostWater'/>
     </pages>
 </playground>
