@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 
 //
 // 11. 盛最多水的容器
@@ -29,5 +28,3 @@ class Solution {
 // Tests
 let s = Solution()
 s.maxArea([1,8,6,2,5,4,8,3,7]) == 49
-
-//: [Next](@next)
