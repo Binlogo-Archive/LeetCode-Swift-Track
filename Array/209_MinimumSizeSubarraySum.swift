@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 
 //
 // 209. 长度最小的子数组
@@ -36,5 +35,3 @@ s.minSubArrayLen(4, [1, 4, 4]) == 1
 s.minSubArrayLen(11, [1, 2, 3, 4, 5]) == 3
 s.minSubArrayLen(15, [1, 2, 3, 4, 5]) == 5
 s.minSubArrayLen(6, [10,2,3]) == 1
-
-//: [Next](@next)
