@@ -28,5 +28,6 @@
         <page name='345_ReverseVowelsOfAString'/>
         <page name='11_ContainerWithMostWater'/>
         <page name='209_MinimumSizeSubarraySum'/>
+        <page name='707_DesignLinkedList'/>
     </pages>
 </playground>
