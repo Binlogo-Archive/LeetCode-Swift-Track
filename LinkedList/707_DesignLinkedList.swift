@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 707. 设计链表
 //
@@ -157,6 +155,3 @@ do {
     obj.deleteAtIndex(0)
     obj.get(0)
 }
-
-
-//: [Next](@next)
