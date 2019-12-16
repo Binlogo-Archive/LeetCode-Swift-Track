@@ -29,5 +29,6 @@
         <page name='11_ContainerWithMostWater'/>
         <page name='209_MinimumSizeSubarraySum'/>
         <page name='707_DesignLinkedList'/>
+        <page name='155_MinStack'/>
     </pages>
 </playground>
