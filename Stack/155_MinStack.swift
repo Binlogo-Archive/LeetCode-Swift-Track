@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 155. 最小栈
 //
@@ -65,5 +63,3 @@ let ret_4: Int = obj.getMin()
  * let ret_3: Int = obj.top()
  * let ret_4: Int = obj.getMin()
  */
-
-//: [Next](@next)
