@@ -30,5 +30,6 @@
         <page name='209_MinimumSizeSubarraySum'/>
         <page name='707_DesignLinkedList'/>
         <page name='155_MinStack'/>
+        <page name='20_ValidParentheses'/>
     </pages>
 </playground>
