@@ -31,5 +31,6 @@
         <page name='707_DesignLinkedList'/>
         <page name='155_MinStack'/>
         <page name='20_ValidParentheses'/>
+        <page name='19_RemoveNthNodeFromEndOfList'/>
     </pages>
 </playground>
