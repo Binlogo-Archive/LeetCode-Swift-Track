@@ -32,5 +32,6 @@
         <page name='155_MinStack'/>
         <page name='20_ValidParentheses'/>
         <page name='19_RemoveNthNodeFromEndOfList'/>
+        <page name='206_ReverseList'/>
     </pages>
 </playground>
