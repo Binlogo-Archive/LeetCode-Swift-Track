@@ -34,5 +34,6 @@
         <page name='19_RemoveNthNodeFromEndOfList'/>
         <page name='206_ReverseList'/>
         <page name='203_RemoveLinkedListElements'/>
+        <page name='328_OddEvenLinkedList'/>
     </pages>
 </playground>
