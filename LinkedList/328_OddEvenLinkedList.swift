@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 328. 奇偶链表
 //
@@ -39,5 +37,3 @@ class Solution {
         return head
     }
 }
-
-//: [Next](@next)
