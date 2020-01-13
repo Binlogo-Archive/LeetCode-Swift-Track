@@ -37,5 +37,6 @@
         <page name='328_OddEvenLinkedList'/>
         <page name='234_PalindromeLinkedList'/>
         <page name='21_mergeTwoSortedLists'/>
+        <page name='2_AddTwoNumbers'/>
     </pages>
 </playground>
