@@ -1,6 +1,3 @@
-//: [Previous](@previous)
-
-import Foundation
 
 //
 // 2. 两数相加
@@ -47,5 +44,3 @@ class Solution {
         return dummy.next
     }
 }
-
-//: [Next](@next)
