@@ -62,6 +62,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | `链表` `多指针` | 给定一个单链表，把所有的奇数节点和偶数节点分别排在一起。     |     [Swift](LinkedList/328_OddEvenLinkedList.swift)     |
 | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | `链表` `双指针` | 判断一个链表是否为回文链表。                                 |   [Swift](LinkedList/234_PalindromeLinkedList.swift)    |
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |  `链表` `数学`  | 给出两个 **非空** 的链表用来表示两个非负的整数。             |        [Swift](LinkedList/2_AddTwoNumbers.swift)        |
+| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |     `链表`      | 将两个有序链表合并为一个新的有序链表并返回。                 |    [Swift](LinkedList/21_MergeTwoSortedLists.swift)     |
 
 
 
