@@ -38,5 +38,6 @@
         <page name='234_PalindromeLinkedList'/>
         <page name='21_MergeTwoSortedLists'/>
         <page name='2_AddTwoNumbers'/>
+        <page name='61_RotateList'/>
     </pages>
 </playground>
