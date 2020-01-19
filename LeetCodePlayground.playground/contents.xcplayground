@@ -39,5 +39,6 @@
         <page name='21_MergeTwoSortedLists'/>
         <page name='2_AddTwoNumbers'/>
         <page name='61_RotateList'/>
+        <page name='739_DailyTemperatures'/>
     </pages>
 </playground>
