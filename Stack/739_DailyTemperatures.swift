@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 //
 // 739. 每日温度
 //
@@ -30,5 +28,3 @@ class Solution {
         return res
     }
 }
-
-//: [Next](@next)
