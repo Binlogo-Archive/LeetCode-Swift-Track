@@ -74,6 +74,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 | [1003. 检查替换后的词是否有效](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/) | `字符串` `栈` | 按给定规则检查替换后的词有效性                               | [Swift](./Stack/1003_CheckIfWordIsValidAfterSubstitutions.swift) |
 | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | `字符串` `栈` | 以 Unix 风格给出一个文件的**绝对路径**，你需要简化它。或者换句话说，将其转换为规范路径。 |            [Swift](./Stack/71_SimplifyPath.swift)            |
 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | `栈`、`设计`  | 设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。 |              [Swift](Stack/155_MinStack.swift)               |
+| [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | `字符串` `栈` | 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。 |           [Swift](Stack/20_ValidParentheses.swift)           |
 
 ### 队列
 
