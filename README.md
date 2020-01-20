@@ -76,6 +76,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | `栈`、`设计`  | 设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。 |              [Swift](Stack/155_MinStack.swift)               |
 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | `字符串` `栈` | 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。 |           [Swift](Stack/20_ValidParentheses.swift)           |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | `栈` `哈希表` | 根据每日 `气温` 列表，请重新生成一个列表，对应位置的输入是你需要再等待多久温度才会升高超过该日的天数。 |          [Swift](Stack/739_DailyTemperatures.swift)          |
+| [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) |     `栈`      | 根据逆波兰表示法，求表达式的值。                             |    [Swift](Stack/150_EvaluateReversePolishNotation.swift)    |
 
 ### 队列
 
