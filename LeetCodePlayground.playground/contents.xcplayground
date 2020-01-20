@@ -40,5 +40,6 @@
         <page name='2_AddTwoNumbers'/>
         <page name='61_RotateList'/>
         <page name='739_DailyTemperatures'/>
+        <page name='150_EvaluateReversePolishNotation'/>
     </pages>
 </playground>
