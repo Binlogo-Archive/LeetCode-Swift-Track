@@ -3,6 +3,24 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 
 **宣言**：~~早搞晚搞，迟早要搞，干就是了！~~ **Just Do IT！**
 
+## 开始练习
+
+1. [LeetCode 探索](https://leetcode-cn.com/explore/) 
+
+   * -> 选择一个「[数据结构](#数据结构)」或「[算法](#算法)」卡片
+
+   * -> 学习相关概念
+
+   * -> 提炼记录必要笔记
+
+2. 打开 [LeetCodePlayground.playground](./LeetCodePlayground.playground) 练习步骤1）的卡片中的一道算法题
+
+3. 在 LeetCode 测试并完成算法题的提交
+
+4. 补充算法要点与简单描述
+
+5. 单独提交 Swift 文件并更新 README 以便在 GitHub 查看
+
 ## 数据结构
 
 数据结构是为算法服务的
