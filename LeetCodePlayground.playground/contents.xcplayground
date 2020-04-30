@@ -42,5 +42,6 @@
         <page name='739_DailyTemperatures'/>
         <page name='150_EvaluateReversePolishNotation'/>
         <page name='622_DesignCircularQueue'/>
+        <page name='202_HappyNumber'/>
     </pages>
 </playground>
