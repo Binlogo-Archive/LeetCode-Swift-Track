@@ -14,6 +14,9 @@ import Foundation
 
 class Solution {
     func simplifyPath(_ path: String) -> String {
+        /* Think about split implementation
+         * link: https://github.com/apple/swift/blob/c1ab69e2db6922814111ff0bc3855f7bee0e18a6/stdlib/public/core/Collection.swift#L1527
+        **/
         let paths = path.split(separator: "/")
         
         var pathStack = [String]()
