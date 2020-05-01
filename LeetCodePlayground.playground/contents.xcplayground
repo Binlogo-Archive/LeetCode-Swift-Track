@@ -45,5 +45,6 @@
         <page name='202_HappyNumber'/>
         <page name='3_LongestSubstringWithoutRepeatingCharacters'/>
         <page name='14_LongestCommonPrefix'/>
+        <page name='93_RestoreIPAddresses'/>
     </pages>
 </playground>
