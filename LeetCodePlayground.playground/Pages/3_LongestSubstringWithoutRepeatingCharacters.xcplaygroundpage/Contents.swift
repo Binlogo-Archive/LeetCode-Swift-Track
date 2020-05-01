@@ -61,6 +61,27 @@ class Solution2 {
     }
 }
 
+class Solution3 {
+    func lengthOfLongestSubstring(_ s: String) -> Int {
+
+        guard !s.isEmpty else { return 0 }
+
+        let chars = [Character](s)
+        var (left, right, maxLength) = (0, 0, 0)
+        var dictionary = [Character: Int]()
+        while right < chars.count {
+            if let index = dictionary[chars[right]] {
+                left = max(left, index + 1)
+            }
+            dictionary[chars[right]] = right
+            right += 1
+            maxLength = max(maxLength, right - left)
+
+        }
+        return maxLength
+    }
+}
+
 // Tests
 
 let s = Solution()
@@ -78,5 +99,13 @@ s2.lengthOfLongestSubstring("pwwkew") == 3
 s2.lengthOfLongestSubstring("a") == 1
 s2.lengthOfLongestSubstring(" ") == 1
 s2.lengthOfLongestSubstring("tmmzuxt") == 5
+
+let s3 = Solution3()
+s3.lengthOfLongestSubstring("abcabcbb") == 3
+s3.lengthOfLongestSubstring("bbbbb") == 1
+s3.lengthOfLongestSubstring("pwwkew") == 3
+s3.lengthOfLongestSubstring("a") == 1
+s3.lengthOfLongestSubstring(" ") == 1
+s3.lengthOfLongestSubstring("tmmzuxt") == 5
 
 //: [Next](@next)
