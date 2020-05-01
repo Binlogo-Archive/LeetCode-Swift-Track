@@ -46,5 +46,6 @@
         <page name='3_LongestSubstringWithoutRepeatingCharacters'/>
         <page name='14_LongestCommonPrefix'/>
         <page name='93_RestoreIPAddresses'/>
+        <page name='15_ThreeSum'/>
     </pages>
 </playground>
