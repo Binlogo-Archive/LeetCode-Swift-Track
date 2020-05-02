@@ -48,5 +48,6 @@
         <page name='93_RestoreIPAddresses'/>
         <page name='15_ThreeSum'/>
         <page name='912_SortAnArray'/>
+        <page name='53_MaximumSubarray'/>
     </pages>
 </playground>
