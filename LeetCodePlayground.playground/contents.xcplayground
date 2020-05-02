@@ -47,5 +47,6 @@
         <page name='14_LongestCommonPrefix'/>
         <page name='93_RestoreIPAddresses'/>
         <page name='15_ThreeSum'/>
+        <page name='912_SortAnArray'/>
     </pages>
 </playground>
