@@ -14,17 +14,14 @@ import Foundation
 
 class Solution {
 
-    lazy var result = [String]()
-
     func restoreIpAddresses(_ s: String) -> [String] {
-
         guard s.count >= 4, s.count <= 12 else { return [] }
-        _backtrack(s, index: 0, segments: [])
+        var result = [String]()
+        _backtrack(s, index: 0, segments: [], result: &result)
         return result
     }
 
-    private func _backtrack(_ s: String, index: Int, segments: [String]) {
-        segments.count
+    private func _backtrack(_ s: String, index: Int, segments: [String], result: inout [String]) {
         if index == s.count && segments.count == 4 {
             result.append(segments.joined(separator: "."))
             return
@@ -36,7 +33,7 @@ class Solution {
             if i != 1 && chars[index] == "0" { continue }
             let segment = String(chars[index..<index+i])
             if Int(segment)! <= 255 {
-                _backtrack(s, index: index + i, segments: segments + [segment])
+                _backtrack(s, index: index + i, segments: segments + [segment], result: &result)
             }
         }
     }
@@ -45,7 +42,7 @@ class Solution {
 // Tests
 
 let s = Solution()
-//s.restoreIpAddresses("25525511135") == ["255.255.11.135", "255.255.111.35"]
+s.restoreIpAddresses("25525511135") == ["255.255.11.135", "255.255.111.35"]
 s.restoreIpAddresses("255255255255") == ["255.255.255.255"]
 
 //: [Next](@next)
