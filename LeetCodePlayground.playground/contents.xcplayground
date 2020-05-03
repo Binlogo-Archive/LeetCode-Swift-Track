@@ -49,5 +49,6 @@
         <page name='15_ThreeSum'/>
         <page name='912_SortAnArray'/>
         <page name='53_MaximumSubarray'/>
+        <page name='695_MaxAreaofIsland'/>
     </pages>
 </playground>
