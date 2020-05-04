@@ -51,5 +51,6 @@
         <page name='53_MaximumSubarray'/>
         <page name='695_MaxAreaofIsland'/>
         <page name='33_ SearchinRotatedSortedArray'/>
+        <page name='45_JumpGameII'/>
     </pages>
 </playground>
