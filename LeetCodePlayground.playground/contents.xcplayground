@@ -53,5 +53,6 @@
         <page name='33_ SearchinRotatedSortedArray'/>
         <page name='45_JumpGameII'/>
         <page name='98_ValidateBinarySearchTree'/>
+        <page name='983_MinimumCostForTickets'/>
     </pages>
 </playground>
