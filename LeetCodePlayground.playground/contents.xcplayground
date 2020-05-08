@@ -54,5 +54,6 @@
         <page name='45_JumpGameII'/>
         <page name='98_ValidateBinarySearchTree'/>
         <page name='983_MinimumCostForTickets'/>
+        <page name='221_MaximalSquare'/>
     </pages>
 </playground>
