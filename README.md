@@ -114,6 +114,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 标题 | 标签 | 描述 | 题解
 -- | -- | -- | :-:
  [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | `树` `深度优先搜索` |给定一个二叉树，判断其是否是一个有效的二叉搜索树。|[Swift](./Tree/98_ValidateBinarySearchTree.swift)
+ [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `树` `深度优先搜索` |给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。|[Swift](./Tree/236_LowestCommonAncestorofaBinaryTree.swift)
 
 ### 堆
 
