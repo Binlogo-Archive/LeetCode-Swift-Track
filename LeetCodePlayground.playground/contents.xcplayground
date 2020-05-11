@@ -56,5 +56,6 @@
         <page name='983_MinimumCostForTickets'/>
         <page name='221_MaximalSquare'/>
         <page name='236_LowestCommonAncestorofaBinaryTree'/>
+        <page name='50_Pow(x, n)'/>
     </pages>
 </playground>
