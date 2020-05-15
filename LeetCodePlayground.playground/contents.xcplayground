@@ -58,5 +58,6 @@
         <page name='236_LowestCommonAncestorofaBinaryTree'/>
         <page name='50_Pow(x, n)'/>
         <page name='102_BinaryTreeLevelOrderTraversal'/>
+        <page name='560'/>
     </pages>
 </playground>
