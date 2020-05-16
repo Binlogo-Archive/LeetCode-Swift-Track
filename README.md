@@ -86,6 +86,7 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 [2\. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)                           | `链表` `数学`  | 给出两个 **非空** 的链表用来表示两个非负的整数。                  |        [Swift](LinkedList/2_AddTwoNumbers.swift)
 [21\. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)               |    `链表`    | 将两个有序链表合并为一个新的有序链表并返回。                       |    [Swift](LinkedList/21_MergeTwoSortedLists.swift)
 [61\. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)                              | `链表` `双指针` | 给定一个链表，旋转链表，将链表每个节点向右移动 _k_ 个位置，其中 _k_ 是非负数。 |         [Swift](LinkedList/61_RotateList.swift)
+[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | `链表` | 给定一个链表，每 *k* 个节点一组进行翻转，返回翻转后的链表。 | [Swift](LinkedList/25_ReverseNodesink-Group.swift) 
 
 ### 栈
 
