@@ -59,6 +59,7 @@
         <page name='50_Pow(x, n)'/>
         <page name='102_BinaryTreeLevelOrderTraversal'/>
         <page name='560_SubarraySumEqualsK'/>
-        <page name='25'/>
+        <page name='25_ReverseNodesink-Group '/>
+        <page name='210'/>
     </pages>
 </playground>
