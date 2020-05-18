@@ -61,5 +61,6 @@
         <page name='560_SubarraySumEqualsK'/>
         <page name='25_ReverseNodesink-Group '/>
         <page name='210'/>
+        <page name='152_MaximumProductSubarray'/>
     </pages>
 </playground>
