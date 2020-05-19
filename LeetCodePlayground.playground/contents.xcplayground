@@ -62,5 +62,6 @@
         <page name='25_ReverseNodesink-Group '/>
         <page name='210'/>
         <page name='152_MaximumProductSubarray'/>
+        <page name='680_Valid_Palindrome_II'/>
     </pages>
 </playground>
