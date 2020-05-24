@@ -67,5 +67,6 @@
         <page name='1003_CheckIfWordIsValidAfterSubstitutions'/>
         <page name='1371_FindtheLongestSubstringContainingVowelsinEvenCounts'/>
         <page name='76_MinimumWindowSubstring'/>
+        <page name='4_MedianofTwoSortedArrays'/>
     </pages>
 </playground>
