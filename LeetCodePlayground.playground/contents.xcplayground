@@ -68,5 +68,7 @@
         <page name='1371_FindtheLongestSubstringContainingVowelsinEvenCounts'/>
         <page name='76_MinimumWindowSubstring'/>
         <page name='4_MedianofTwoSortedArrays'/>
+        <page name='146_LRUCache'/>
+        <page name='287_FindtheDuplicateNumber'/>
     </pages>
 </playground>
