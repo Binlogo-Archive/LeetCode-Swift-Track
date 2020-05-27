@@ -70,5 +70,6 @@
         <page name='4_MedianofTwoSortedArrays'/>
         <page name='146_LRUCache'/>
         <page name='287_FindtheDuplicateNumber'/>
+        <page name='974_SubarraySumsDivisiblebyK '/>
     </pages>
 </playground>
