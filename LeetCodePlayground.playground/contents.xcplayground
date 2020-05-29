@@ -72,5 +72,6 @@
         <page name='287_FindtheDuplicateNumber'/>
         <page name='974_SubarraySumsDivisiblebyK '/>
         <page name='394_DecodeString'/>
+        <page name='198_HouseRobber'/>
     </pages>
 </playground>
