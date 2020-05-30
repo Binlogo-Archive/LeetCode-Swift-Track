@@ -7,13 +7,22 @@ class Solution {
         if heights.isEmpty {
             return 0
         }
-        var res = 0
-        for left in 0..<heights.count {
-            var minHeight = Int.max
-            for right in left..<heights.count {
-                minHeight = min(minHeight, heights[right])
-                res = max(res, (right - left + 1) * minHeight)
+        let count = heights.count
+        var left = [Int](repeating: 0, count: count)
+        var right = [Int](repeating: count, count: count)
+        var stack = [Int]()
+        for i in 0..<count {
+            while let top = stack.last, heights[top] >= heights[i] {
+                right[top] = i
+                stack.popLast()
             }
+            left[i] = stack.last ?? -1
+            stack.append(i)
+        }
+
+        var res = 0
+        for i in 0..<count {
+            res = max(res, (right[i] - left[i] - 1) * heights[i])
         }
         return res
     }
@@ -22,5 +31,6 @@ class Solution {
 // Tests
 let s = Solution()
 s.largestRectangleArea([2,1,5,6,2,3]) == 10
+s.largestRectangleArea([1]) == 1
 
 //: [Next](@next)
