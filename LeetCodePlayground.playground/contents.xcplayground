@@ -73,5 +73,6 @@
         <page name='974_SubarraySumsDivisiblebyK '/>
         <page name='394_DecodeString'/>
         <page name='198_HouseRobber'/>
+        <page name='84_LargestRectangleinHistogram'/>
     </pages>
 </playground>
