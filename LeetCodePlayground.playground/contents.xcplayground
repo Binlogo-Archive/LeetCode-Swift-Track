@@ -74,5 +74,6 @@
         <page name='394_DecodeString'/>
         <page name='198_HouseRobber'/>
         <page name='84_LargestRectangleinHistogram'/>
+        <page name='101_SymmetricTree'/>
     </pages>
 </playground>
