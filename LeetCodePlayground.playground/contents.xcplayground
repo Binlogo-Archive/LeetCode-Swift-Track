@@ -76,5 +76,6 @@
         <page name='84_LargestRectangleinHistogram'/>
         <page name='101_SymmetricTree'/>
         <page name='1431_KidsWiththeGreatestNumberofCandies'/>
+        <page name='剑指 Offer - 面试题64. 求1+2+…+n'/>
     </pages>
 </playground>
