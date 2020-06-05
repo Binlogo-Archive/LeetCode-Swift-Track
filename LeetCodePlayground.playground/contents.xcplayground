@@ -79,5 +79,6 @@
         <page name='剑指 Offer - 面试题64. 求1+2+…+n'/>
         <page name='837_New21Game'/>
         <page name='238_ProductofArrayExceptSelf'/>
+        <page name='剑指 Offer - 面试题29. 顺时针打印矩阵'/>
     </pages>
 </playground>
