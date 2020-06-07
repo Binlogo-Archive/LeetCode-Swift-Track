@@ -81,5 +81,6 @@
         <page name='238_ProductofArrayExceptSelf'/>
         <page name='剑指 Offer - 面试题29. 顺时针打印矩阵'/>
         <page name='128_LongestConsecutiveSequence'/>
+        <page name='126_WordLadderII'/>
     </pages>
 </playground>
