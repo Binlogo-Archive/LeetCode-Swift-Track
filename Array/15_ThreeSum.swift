@@ -1,6 +1,3 @@
-//: [Previous](@previous)
-
-import Foundation
 
 //
 // 15. 三数之和
@@ -61,5 +58,3 @@ let s = Solution()
 s.threeSum([-1, 0, 1, 2, -1, -4]) == [[-1, -1, 2], [-1, 0, 1]]
 s.threeSum([0,0,0,0]) == [[0, 0, 0]]
 s.threeSum([-2,0,1,1,2]) == [[-2,0,2],[-2,1,1]]
-
-//: [Next](@next)
