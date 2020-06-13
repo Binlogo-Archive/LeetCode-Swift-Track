@@ -85,5 +85,6 @@
         <page name='990_SatisfiabilityofEqualityEquations'/>
         <page name='剑指 Offer - 面试题46. 把数字翻译成字符串'/>
         <page name='9_PalindromeNumber'/>
+        <page name='70_ClimbingStairs'/>
     </pages>
 </playground>
