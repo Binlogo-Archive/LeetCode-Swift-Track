@@ -87,5 +87,6 @@
         <page name='9_PalindromeNumber'/>
         <page name='70_ClimbingStairs'/>
         <page name='1300_SumofMutatedArrayClosesttoTarget'/>
+        <page name='297_SerializeandDeserializeBinaryTree'/>
     </pages>
 </playground>
