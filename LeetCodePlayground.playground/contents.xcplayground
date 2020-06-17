@@ -88,5 +88,6 @@
         <page name='70_ClimbingStairs'/>
         <page name='1300_SumofMutatedArrayClosesttoTarget'/>
         <page name='297_SerializeandDeserializeBinaryTree'/>
+        <page name='1014_BestSightseeingPair'/>
     </pages>
 </playground>
