@@ -90,5 +90,6 @@
         <page name='297_SerializeandDeserializeBinaryTree'/>
         <page name='1014_BestSightseeingPair'/>
         <page name='1028_RecoveraTreeFromPreorderTraversal'/>
+        <page name='10_RegularExpressionMatching'/>
     </pages>
 </playground>
