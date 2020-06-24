@@ -92,5 +92,6 @@
         <page name='1028_RecoveraTreeFromPreorderTraversal'/>
         <page name='10_RegularExpressionMatching'/>
         <page name='124_BinaryTreeMaximumPathSum'/>
+        <page name='16_3SumClosest'/>
     </pages>
 </playground>
