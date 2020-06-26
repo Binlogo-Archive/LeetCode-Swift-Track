@@ -94,5 +94,6 @@
         <page name='124_BinaryTreeMaximumPathSum'/>
         <page name='16_3SumClosest'/>
         <page name='139_WordBreak'/>
+        <page name='程序员面试金典 - 面试题 02.01. 移除重复节点'/>
     </pages>
 </playground>
