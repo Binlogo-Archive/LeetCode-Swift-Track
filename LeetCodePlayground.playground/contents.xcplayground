@@ -102,5 +102,7 @@
         <page name='剑指 Offer 09. 用两个栈实现队列'/>
         <page name='44_WildcardMatching'/>
         <page name='63_UniquePathsII'/>
+        <page name='112_PathSum'/>
+        <page name='程序员面试金典 - 面试题 16.11. 跳水板'/>
     </pages>
 </playground>
