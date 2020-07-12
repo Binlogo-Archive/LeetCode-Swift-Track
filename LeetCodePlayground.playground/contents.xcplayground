@@ -107,5 +107,8 @@
         <page name='程序员面试金典 - 面试题 17.13. 恢复空格'/>
         <page name='121_BestTimetoBuyandSellStock'/>
         <page name='122_BestTimetoBuyandSellStockII'/>
+        <page name='309_BestTimetoBuyandSellStockwithCooldown'/>
+        <page name='315_CountofSmallerNumbersAfterSelf'/>
+        <page name='174_DungeonGame '/>
     </pages>
 </playground>
