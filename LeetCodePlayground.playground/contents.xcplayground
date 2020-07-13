@@ -110,5 +110,6 @@
         <page name='309_BestTimetoBuyandSellStockwithCooldown'/>
         <page name='315_CountofSmallerNumbersAfterSelf'/>
         <page name='174_DungeonGame '/>
+        <page name='350_IntersectionofTwoArraysII '/>
     </pages>
 </playground>
