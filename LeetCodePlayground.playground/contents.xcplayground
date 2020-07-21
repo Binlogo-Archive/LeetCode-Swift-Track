@@ -113,5 +113,9 @@
         <page name='350_IntersectionofTwoArraysII '/>
         <page name='120_Triangle'/>
         <page name='96_UniqueBinarySearchTrees '/>
+        <page name='35_SearchInsertPosition'/>
+        <page name='312_BurstBalloons'/>
+        <page name='785_IsGraphBipartite?'/>
+        <page name='95_UniqueBinarySearchTreesII'/>
     </pages>
 </playground>
