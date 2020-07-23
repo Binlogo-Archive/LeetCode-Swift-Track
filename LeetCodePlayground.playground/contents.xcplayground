@@ -118,5 +118,6 @@
         <page name='785_IsGraphBipartite?'/>
         <page name='95_UniqueBinarySearchTreesII'/>
         <page name='剑指 Offer 11. 旋转数组的最小数字'/>
+        <page name='64_MinimumPathSum'/>
     </pages>
 </playground>
