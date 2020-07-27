@@ -119,5 +119,7 @@
         <page name='95_UniqueBinarySearchTreesII'/>
         <page name='剑指 Offer 11. 旋转数组的最小数字'/>
         <page name='64_MinimumPathSum'/>
+        <page name='1025_DivisorGame'/>
+        <page name='392_IsSubsequence'/>
     </pages>
 </playground>
