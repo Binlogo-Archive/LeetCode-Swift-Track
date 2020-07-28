@@ -121,5 +121,6 @@
         <page name='64_MinimumPathSum'/>
         <page name='1025_DivisorGame'/>
         <page name='392_IsSubsequence'/>
+        <page name='104_MaximumDepthofBinaryTree'/>
     </pages>
 </playground>
