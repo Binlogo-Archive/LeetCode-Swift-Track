@@ -122,5 +122,6 @@
         <page name='1025_DivisorGame'/>
         <page name='392_IsSubsequence'/>
         <page name='104_MaximumDepthofBinaryTree'/>
+        <page name='343_IntegerBreak'/>
     </pages>
 </playground>
