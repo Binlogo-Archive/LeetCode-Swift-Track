@@ -2,6 +2,8 @@
 //
 // 3. 无重复字符的最长子串
 //
+// 给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
+//
 // 题目链接：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 // 标签：哈希表、双指针、字符串、滑动窗口
 // 要点：前后双指针，滑动窗口，计算最大值
@@ -9,6 +11,7 @@
 // 空间复杂度：O(k), k = min(m, n)
 //
 
+/// 前后双指针
 class Solution {
     func lengthOfLongestSubstring(_ s: String) -> Int {
 
@@ -36,6 +39,7 @@ class Solution {
     }
 }
 
+/// 滑动窗口
 class Solution2 {
     func lengthOfLongestSubstring(_ s: String) -> Int {
 
@@ -58,6 +62,7 @@ class Solution2 {
     }
 }
 
+/// 计算最大值
 class Solution3 {
     func lengthOfLongestSubstring(_ s: String) -> Int {
 
