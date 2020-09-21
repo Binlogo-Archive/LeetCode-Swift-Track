@@ -1,6 +1,3 @@
-//: [Previous](@previous)
-
-import Foundation
 
 //
 // 4. 寻找两个正序数组的中位数
@@ -58,5 +55,3 @@ class Solution {
 let s = Solution()
 s.findMedianSortedArrays([1, 3], [2]) == 2.0
 s.findMedianSortedArrays([1, 2], [3, 4]) == 2.5
-
-//: [Next](@next)
