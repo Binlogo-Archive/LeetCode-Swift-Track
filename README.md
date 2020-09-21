@@ -179,8 +179,9 @@ LeetCode 💖 Swift，攻克[数据结构](#数据结构)与[算法](#算法)。
 - [二分查找](./BinarySearch/BinarySearch.swift)
 
 标题 | 标签 | 描述 | 题解
--- | -- | -- | --
- [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | `数组` `二分查找` |按照升序排序的数组在预先未知的某个点上进行了旋转，在该数组中查找目标值。|[Swift](./BinarySearch/33_ SearchinRotatedSortedArray.swift)
+:-- | :------: | ------ | :-----:
+ [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | `数组` `二分查找` | 按照升序排序的数组在预先未知的某个点上进行了旋转，在该数组中查找目标值|[Swift](./BinarySearch/33_SearchinRotatedSortedArray.swift)
+ [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | `数组` `二分查找` `分治算法` | 给定两个大小为 m 和 n 的正序数组 nums1 和 nums2。找出这两个正序数组的中位数 | [Swift](./BinarySearch/4_MedianofTwoSortedArrays.swift)
 
 ### 搜索
 
